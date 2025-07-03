@@ -13,11 +13,11 @@
     },
     "/wiki/main-characters/cinnaa-ursana/": {
         "title": "Cinnaa Ursana",
-        "text": "Cinnaa Ursana \"I don't think he's being a dick though! I think he's just... kinda like that.\" - Cinnaa Cinnaa Ursana  is a bronzeblood troll living in the rural outskirts of  Parenthia 's  Island Sector  prior to 0 AZ. She is a survivor of the undead apocalypse, a God-tiered Player in The Game, and a member of the Train party. Preceding her escape on the Train in the chaos of the Outbreak, Cinnaa operated  Paws n' Claws Sanctuary  along with her lusus, a haven for lost or injured lusii. Description Cinnaa  is a bronze-blooded troll standing at 5'4\" (162 cm) with long hair and bull-like horns.  Image Credit - 'Vandy' @LilBoxBot Sorry Adyn I used the griddy pic"
+        "text": "Cinnaa Ursana \"I don't think he's being a dick though! I think he's just... kinda like that.\" - Cinnaa Cinnaa Ursana  is a bronzeblood troll living in the rural outskirts of  Parenthia 's  Island Sector  prior to 0 AZ. She is a survivor of the undead apocalypse, a God-tiered Player in The Game, and a member of the Train party. Preceding her escape on the Train in the chaos of the Outbreak, Cinnaa operated  Paws n' Claws Sanctuary  along with her lusus, a haven for lost or injured lusii. Description Cinnaa  is a bronze-blooded troll standing at 5'4\" (162 cm) with long hair and bull-like horns. She possesses notably higher than average physical strength and resilience despite her stature, a standout property of bronzes amongst other lowbloods. Image Credit - 'Vandy' @LilBoxBot Sorry Adyn I used the griddy pic"
     },
     "/wiki/main-characters/prokit-ditzee/": {
         "title": "Prokit Ditzee",
-        "text": "Prokit Ditzee \"This visor is explicitly built in order to enhance my psionic output level. Touch it again and I'll make sure you understand exactly how much it hurts to have your flesh melt into your muscle :3\" - Ult Prokit Column Content"
+        "text": "Prokit Ditzee \"This visor is explicitly built in order to enhance my psionic output level. Touch it again and I'll make sure you understand exactly how much it hurts to have your flesh melt into your muscle :3\" - Ult Prokit Prokit Ditzee  is an Island-native goldblood,"
     },
     "/wiki/main-characters/kalrax-relgaz/": {
         "title": "Kalrax Relgaz",
@@ -25,7 +25,7 @@
     },
     "/wiki/main-characters/kisuna-zelezo/": {
         "title": "Kisuna Zelezo",
-        "text": "Kisuna Zelezo \"I'm dippin' nuggets you've never heard of into sauces you couldn't even comprehend, fuckboy!\" - Kisuna Kisuna Zelezo  is an Industrial-raised jadeblood exiled to the Island Sector, residing there before 0 AZ."
+        "text": "Kisuna Zelezo \"I'm dippin' nuggets you've never heard of into sauces you couldn't even comprehend, fuckboy!\" - Kisuna Kisuna Zelezo  is an  Industrial -raised jadeblood exiled to the  Island Sector , residing there until the events of the apocalypse. She is a God-tiered Player in The Game and a member of the Train party."
     },
     "/wiki/main-characters/neusah-sorjes/": {
         "title": "Neusah Sorjes",
