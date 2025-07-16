@@ -49,7 +49,7 @@
     </style>
     <script>
         function getInitialTheme() {
-            const savedTheme = localStorage.getItem('theme') || 'dark';
+            const savedTheme = localStorage.getItem('theme') || 'system';
             if (savedTheme === 'light' || savedTheme === 'dark') return savedTheme;
             return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
         }
@@ -1170,7 +1170,7 @@
                 <div class="footer">
                     <div class="content">
                         <div class="date">
-                            <div>Jul 13, 2025</div>
+                            <div>Jul 16, 2025</div>
                         </div>
                         
                             <a href="/wiki/locations/island-sector/" class="column left-column" title="Island Sector">
@@ -1245,8 +1245,8 @@
     import {preInitTree} from 'https://parenthia.quest/_lib/pre.js';
     preInitTree();
     await initPage();
-    await initTheme('dark');
-    await initSearch('https://parenthia.quest', '1752443166689');
+    await initTheme('system');
+    await initSearch('https://parenthia.quest', '1752701822304');
     document.documentElement.style.visibility = 'visible';
     document.documentElement.style.opacity = '1';
     initToc();
